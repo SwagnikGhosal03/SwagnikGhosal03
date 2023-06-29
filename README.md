@@ -1,0 +1,3 @@
+Hi I am Swagnik Ghosal a passionate developer...I am learning web developement currently and also trying to master DSA. I have a basic idea on programming languages like C,Java.
+I am pursuing B.tech in CSE in KIIT(Kalinga Institute of Industrial Technology)...
+Mail id - ghosalswagnik@gmail.com
